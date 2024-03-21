@@ -2,7 +2,9 @@
 layout: page
 permalink: /team/
 title: team
-description: 
+description: team of the lab or group
+nav: true
+nav_order: 8
 ---
 
 {% for person in site.data.members %}
