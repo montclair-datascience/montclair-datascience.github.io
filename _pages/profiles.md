@@ -30,7 +30,7 @@ profiles:
       <p>🏤: CCIS 227D </p>
   
   - align: right
-    image: prof_pic.jpg
+    image: haoliu.jpg
     content: about_hao.md
     image_circular: false # crops the image to make it circular
     more_info: >
