@@ -14,7 +14,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dr. Aparna Varde</p>
+      <p>👩‍🏫: Dr. Aparna Varde</p>
       <p>📞: 973-655-4292</p>
       <p>📧: vardea@montclair.edu</p>
       <p>🏤: CCIS 111E </p>
