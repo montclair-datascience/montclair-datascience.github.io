@@ -14,9 +14,9 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Phone: 973-655-4292</p>
-      <p>Email: vardea@montclair.edu</p>
-      <p>Office: CCIS 111E </p>
+      <p>📞: 973-655-4292</p>
+      <p>📧: vardea@montclair.edu</p>
+      <p>🏤: CCIS 111E </p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
@@ -27,7 +27,12 @@ profiles:
       <p>Your City, State 12345</p>
 ---
 
+
 ## alumni
+
+{% raw %}
+
+```html
 
 <div class="post">
 {% for alum in site.data.alumni %}
@@ -47,9 +52,17 @@ profiles:
 {% endfor %}
 </div>
 
----
+```
+{% endraw %}
+
+
+
 
 ## collaborators
+
+{% raw %}
+```html
+
 <div class="post">
 {% for collaborator in site.data.collaborators %}
 <div id = "{{ collaborator.name | replace: ' ', '-' | remove: '.' }}" class="row" style="padding-top: 60px; margin-top: -60px; padding-bottom: 20px;">
@@ -60,5 +73,5 @@ profiles:
 {% endfor %}
 </div>
 
-
----
+```
+{% endraw %}
