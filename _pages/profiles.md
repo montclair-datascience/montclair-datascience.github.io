@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: members of the lab or group
 nav: true
-nav_order: 7
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -14,9 +14,9 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Phone: 973-655-4292</p>
+      <p>Email: vardea@montclair.edu</p>
+      <p>Office: CCIS 111E </p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
@@ -28,6 +28,8 @@ profiles:
 ---
 
 ## alumni
+
+<div class="post">
 {% for alum in site.data.alumni %}
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
@@ -43,11 +45,11 @@ profiles:
   {% endfor %}
 </div>
 {% endfor %}
-
+</div>
 ---
 
 ## collaborators
-
+<div class="post">
 {% for collaborator in site.data.collaborators %}
 <div id = "{{ collaborator.name | replace: ' ', '-' | remove: '.' }}" class="row" style="padding-top: 60px; margin-top: -60px; padding-bottom: 20px;">
 <strong>{{collaborator.name}}{% if collaborator.degrees %}, {{collaborator.degrees}} {% endif %}</strong><br>  
@@ -55,3 +57,4 @@ profiles:
   {% if collaborator.website %} <i class="fa fa-globe"></i> <a href= "{{collaborator.website}}" target="_blank">{{collaborator.website}}</a>  {% endif %}
 </div>
 {% endfor %}
+</div>
