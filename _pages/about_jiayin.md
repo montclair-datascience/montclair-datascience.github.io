@@ -1,10 +1,5 @@
-Dr. Aparna Varde is the Associate Director of Graduate Studies and Research, and an Associate Professor in the School of Computing at Montclair State University, NJ, USA. 
-She is an Associate Director of the Clean Energy and Sustainability Analytics Research Center (CESAC) at Montclair. 
+> Dr. Jiayin Wang is an Associate Professor in the School of Computing at Montclair State University. She is also the Graduate Program Coordinator for M.S. in Data Science. She received her Ph.D. in Computer Science from the University of Massachusetts, Boston in 2016 and her Bachelor's degree in Electrical Engineering from Xidian University, China in 2007. 
 
-Dr. Varde has been a visiting researcher at Max Planck Institute for Informatics, Saarbrucken, Germany. 
-She obtained her PhD and MS in Computer Science from WPI, Massachusetts, and BE in Computer Engineering from University of Bombay, India. 
-Her work spans Artificial Intelligence, Machine Learning, Data Mining, Databases, Environmental Computing, and Computational Linguistics. Her honors include 4 best paper awards at IEEE conferences. 
-She is Doctoral Faculty in the PhD Program in Environmental Science and Management at Montclair. She has been a dissertation advisor, committee member, and mentor for around 10 PhD students at Montclair State University, and external committee member / mentor for around 8 PhD students worldwide. 
+> Dr. Wang's research interests lie in the areas of big data, cloud computing, mobile computing, and wireless networks. Her work focuses on resource management, scheduling, and performance evaluation in big data computing systems.
 
-Dr. Varde has over 150 publications (journals, conferences, book chapters, edited volumes) by IEEE, ACM, AAAI, Springer etc. She has been a panelist for NSF, PC member at conferences, and reviewer / editorial board member for journals by IEEE, ACM, Elsevier etc. Her research is funded by grants from organizations such as PSE&G, NOAA and NSF.  
-Dr. Varde has been classified as an outstanding researcher by the Citizenship and Immigration Services, USA.
+> Some of her recent research outputs include developing new scheduling algorithms to improve performance and resource utilization in Hadoop YARN clusters, evaluating the performance of resource management schemes for cloud native platforms using computing containers, and proposing a hierarchical framework for sentiment analysis on Twitter data. Dr. Wang has published her research in leading IEEE journals and conference proceedings.
