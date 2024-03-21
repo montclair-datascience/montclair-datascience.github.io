@@ -1,0 +1,25 @@
+
+- name: Colin Cheng
+  degrees: PhD
+  image: team_Colin-Hoy.jpg
+  position: Postdoc
+  email: colin.Cheng (at) montclair.edu
+  website: https://profiles.msu.edu/colin.Cheng
+  scholar: https://scholar.google.com/citations?user=WaMmA4AAAAAJ&hl=en
+  twitter: "cccc"
+  description: I'm a neuroscientist and postdoctoral scholar in the UCSF 
+              Movement Disorders and Neuromodulation Center studying motivation 
+              in Parkinson's disease with Drs. Simon Little and Phil Starr and 
+              neuroethics here in the Decision Lab. 
+
+
+               In the Little and Starr Labs, our group aims to treat motor and 
+               nonmotor (e.g., sleep, cognition, emotion) deficits in patients 
+               with Parkinson's disease using neurosurgically implanted deep 
+               brain stimulation (DBS) devices. My main research project focuses 
+               on understanding apathy and impulsivity symptoms in these 
+               patients by (1) measuring goal-directed and habitual decision 
+               making with computational reinforcement learning models; 
+               (2) mapping these cognitive processes to neural activity using 
+               chronic invasive brain recordings; and (3) modulating these 
+               neural circuits using dopaminergic medications and DBS.

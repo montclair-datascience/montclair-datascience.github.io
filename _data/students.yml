@@ -1,0 +1,16 @@
+
+- name: Abacde Bibi
+  image: Team_bibi.jpg
+  altimage:
+  position: Master Student
+  email: abs (at) montclair.edu
+  website:
+  scholar:
+  twitter:
+  description: I am a master student at Montclair State University. After working at Amazon, a 
+                I was eager to join the Data Science Lab and understand public
+               reception to neuro innovation. My contributions to our Neuroethics Survey Project seek to outline how race,
+               ethnicty, and rurality influence beliefs about therapeutic implanated neural devices. Previously, I've explored 
+               social cognition, dementia, and I hope to pursue further research in neural interfaces at MSU.
+
+

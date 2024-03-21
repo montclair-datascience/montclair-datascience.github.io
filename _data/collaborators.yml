@@ -1,0 +1,15 @@
+- name: Amy Stone
+  degrees: PhD
+  position: Assistant Professor, Montclair State University
+  email:
+  website: https://profiles.montclair.edu/amy.stone
+
+- name: Edward Smith
+  degrees: MD
+  position: Professor, Columbia Department of Neurological Surgery
+  email:
+  website: http://smithlab.columbia.edu/
+
+
+
+
