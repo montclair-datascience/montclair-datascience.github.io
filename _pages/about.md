@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: School of Computing, College Of Science And Mathematics, Montclair State University
+subtitle: <a href='https://www.montclair.edu/school-of-computing/'>School of Computing</a>,  <a href='https://www.montclair.edu/csam/'> College Of Science And Mathematics</a>, <a href='https://www.montclair.edu/'> Montclair State University</a>
 
 profile:
   align: right
