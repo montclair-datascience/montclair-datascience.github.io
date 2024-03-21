@@ -11,22 +11,34 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: AparnaLondon.jpg
-    content: about_einstein.md
+    content: about_aparna.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>👩‍🏫: Dr. Aparna Varde</p>
       <p>📞: 973-655-4292</p>
       <p>📧: vardea@montclair.edu</p>
       <p>🏤: CCIS 111E </p>
+  
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: jiayinwang.jpg
+    content: about_jiayin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dr. xxx xxx</p>
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>👩‍🏫: Dr. Jiayin Wang</p>
+      <p>📞: 973-655-3330</p>
+      <p>📧: wangji@montclair.edu</p>
+      <p>🏤: CCIS 227D </p>
+  
+  - align: right
+    image: prof_pic.jpg
+    content: about_hao.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>👨‍🏫: Dr. Hao Liu</p>
+      <p>📞: 973-655-4096</p>
+      <p>📧: liuha@montclair.edu</p>
+      <p>🏤: CCIS 227E </p>
+
 ---
 
 
