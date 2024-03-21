@@ -4,7 +4,7 @@
 
 title: Data Science Lab @ MSU # the website title (if blank, full name will be used instead)
 first_name: Data Science Lab
-middle_name: @
+middle_name:
 last_name: MSU
 email: liuha@montclair.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
