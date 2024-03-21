@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: Members of the Data Science lab @ MSU
 nav: true
-nav_order: 4
+nav_order: 2
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
