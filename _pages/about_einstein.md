@@ -1,5 +1,10 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Aparna Varde is the Associate Director of Graduate Studies and Research, and an Associate Professor in the School of Computing at Montclair State University, NJ, USA. 
+She is an Associate Director of the Clean Energy and Sustainability Analytics Research Center (CESAC) at Montclair. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Dr. Varde has been a visiting researcher at Max Planck Institute for Informatics, Saarbrucken, Germany. 
+She obtained her PhD and MS in Computer Science from WPI, Massachusetts, and BE in Computer Engineering from University of Bombay, India. 
+Her work spans Artificial Intelligence, Machine Learning, Data Mining, Databases, Environmental Computing, and Computational Linguistics. Her honors include 4 best paper awards at IEEE conferences. 
+She is Doctoral Faculty in the PhD Program in Environmental Science and Management at Montclair. She has been a dissertation advisor, committee member, and mentor for around 10 PhD students at Montclair State University, and external committee member / mentor for around 8 PhD students worldwide. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dr. Varde has over 150 publications (journals, conferences, book chapters, edited volumes) by IEEE, ACM, AAAI, Springer etc. She has been a panelist for NSF, PC member at conferences, and reviewer / editorial board member for journals by IEEE, ACM, Elsevier etc. Her research is funded by grants from organizations such as PSE&G, NOAA and NSF.  
+Dr. Varde has been classified as an outstanding researcher by the Citizenship and Immigration Services, USA.
