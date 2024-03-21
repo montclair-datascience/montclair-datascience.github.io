@@ -44,12 +44,10 @@ profiles:
 
   - align: right
     image: prof_pic_color.jpg
-    content: about_hao.md
+    content: about_student.md
     image_circular: false # crops the image to make it circular
     category: student
     more_info: >
-      <p>👨‍🏫: Hao Liu</p>
-      <p>📞: 973-655-4096</p>
+      <p>👨‍🏫: John Doe</p>
       <p>📧: liuha@montclair.edu</p>
-      <p>🏤: CCIS 227E </p>
 ---

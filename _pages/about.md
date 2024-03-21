@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Data Science Lab -- Rm 318</p>
-    <p>Center for Computing and Information Science</p>
+    <p>Center for Computing & Information Science</p>
     <p>Montclair State University</p>
 
 news: true # includes a list of news items
