@@ -4,8 +4,8 @@ layout: page
 <div class="post">
   <article>
     {% if page.profiles %}
-      {% assign faculty_profiles = page.profiles | where: "category", "faculty" %}
-      {% assign student_profiles = page.profiles | where: "category", "student" %}
+      {% assign faculty_profiles = page.profiles | where_exp: "profile", "profile.category == 'faculty'" %}
+      {% assign student_profiles = page.profiles | where_exp: "profile", "profile.category == 'student'" %}
 
       {% if faculty_profiles.size > 0 %}
         <h2>Faculty</h2>
