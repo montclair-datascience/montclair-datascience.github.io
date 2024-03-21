@@ -14,6 +14,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Dr. Aparna Varde</p>
       <p>📞: 973-655-4292</p>
       <p>📧: vardea@montclair.edu</p>
       <p>🏤: CCIS 111E </p>
@@ -22,6 +23,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Dr. xxx xxx</p>
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
