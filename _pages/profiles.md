@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the Data Science lab @ MSU
+description: Members of the Data Science lab @ MSU
 nav: true
 nav_order: 4
 
@@ -19,7 +19,7 @@ profiles:
       <p>📧: vardea@montclair.edu</p>
       <p>🏤: CCIS 111E </p>
   
-  - align: left
+  - align: right
     image: jiayinwang.jpg
     content: about_jiayin.md
     image_circular: false # crops the image to make it circular

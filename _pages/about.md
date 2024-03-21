@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='https://www.montclair.edu/school-of-computing/'>School of Computing</a>,  <a href='https://www.montclair.edu/csam/'> College Of Science And Mathematics</a>, <a href='https://www.montclair.edu/'> Montclair State University</a>
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: CCIS_building.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Data Science Lab -- Rm 318</p>
