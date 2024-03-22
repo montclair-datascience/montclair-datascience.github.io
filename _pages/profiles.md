@@ -17,7 +17,7 @@ profiles:
     more_info: >
       <p>👩‍🏫: Dr. Katherine Herbert</p>
       <p>📞: 973-655-5398</p>
-      <p>📧: vardea@montclair.edu</p>
+      <p>📧: rawlinsonk1@montclair.edu</p>
       <p>🏤: CCIS 227H </p>
       
   - align: right
