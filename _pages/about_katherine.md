@@ -1,0 +1,6 @@
+> Dr. Katherine Grace Herbert-Berger is a Professor of Computer Science at Montclair State University. She received her Ph.D. in Computer Science from the New Jersey Institute of Technology in 2004, her M.S. in Computer Science from NJIT in 2001, and her B.S. in Computer Science & Mathematics from Saint Peter's College in 1999.
+
+Dr. Herbert's research interests lie in the areas of big data, data mining, bioinformatics, scientific databases, and science informatics. She has authored numerous peer-reviewed journal articles, conference papers, book chapters, and a book on bioinformatics database systems. Dr. Herbert has also secured several grants from the National Science Foundation to support her research and educational initiatives.
+
+In addition to her research, Dr. Herbert is actively involved in curriculum development, having authored and co-authored multiple degree programs and courses at both the undergraduate and graduate levels. She serves as an undergraduate advisor and has previously held roles as a Graduate Program Coordinator.
+Dr. Herbert is deeply committed to student mentoring and has supervised many undergraduate and graduate research projects. She is also engaged in various outreach activities to promote computer science education and inspire the next generation of scientists and engineers.

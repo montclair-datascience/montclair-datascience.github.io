@@ -10,6 +10,17 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
+    image: HerbertK.jpg
+    content: about_katherine.md
+    image_circular: false # crops the image to make it circular
+    category: faculty
+    more_info: >
+      <p>👩‍🏫: Dr. Katherine Herbert</p>
+      <p>📞: 973-655-5398</p>
+      <p>📧: vardea@montclair.edu</p>
+      <p>🏤: CCIS 227H </p>
+      
+  - align: right
     image: AparnaLondon.jpg
     content: about_aparna.md
     image_circular: false # crops the image to make it circular
