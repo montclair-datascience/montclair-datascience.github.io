@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: Members of the Data Science Lab @ MSU (by alphabetical order of first name )
 nav: true
 nav_order: 2

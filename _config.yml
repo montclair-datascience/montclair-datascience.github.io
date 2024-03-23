@@ -125,7 +125,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Data Science Lab # blog_name will be displayed in your blog page
-blog_description: a collection of resources for Data Science research
+blog_description: A collection of resources for Data Science research
 permalink: /blog/:year/:title/
 
 # Pagination

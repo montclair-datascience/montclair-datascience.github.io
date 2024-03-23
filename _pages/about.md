@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.montclair.edu/school-of-computing/'>School of Computing</a>,  <a href='https://www.montclair.edu/csam/'> College Of Science And Mathematics</a>, <a href='https://www.montclair.edu/'> Montclair State University</a>
 
