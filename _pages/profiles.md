@@ -20,7 +20,7 @@ profiles:
       <p>👩‍🏫: Dr. Aparna Varde</p>
       <p>📞: 973-655-4292</p>
       <p>📧: vardea@montclair.edu</p>
-      <p>🏤: CCIS 111E </p>
+      <p>🏤: CCIS 116B </p>
       
   - align: right
     image: haoliu.jpg
