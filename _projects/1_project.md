@@ -5,9 +5,7 @@ description: a project with a background image
 img: assets/img/12.jpg
 importance: 3
 category: ongoing
-related_publications: true
 ---
-
 
 
 This multidisciplinary research in data mining and environmental management is supported by a grant from PSE&G. 
