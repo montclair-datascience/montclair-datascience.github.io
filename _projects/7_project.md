@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Robotics, Commonsense Knowledge and Smart Manufacturing
-description: a project with no image
-img:
+description: a project with Dr. Varde
+img: assets/img/7.jpg
 importance: 1
 category: ongoing
 ---

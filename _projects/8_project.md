@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 'Machine Learning in Image Mining: Nanoscale, X-ray, LiDAR and Satellite Data'
-description: a project with no image
-img:
+description: a project with Dr. Varde
+img: assets/img/1.jpg
 importance: 2
 category: ongoing
 ---

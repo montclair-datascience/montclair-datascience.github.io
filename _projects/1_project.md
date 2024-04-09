@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Decision Support in Green IT for Smart Environment and Sustainability
-description: a project with a background image
+description: a project with Dr. Varde
 img: assets/img/12.jpg
 importance: 3
 category: ongoing
