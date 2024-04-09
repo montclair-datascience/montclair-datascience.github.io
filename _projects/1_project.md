@@ -16,9 +16,9 @@ The role played by data mining techniques is significant here in the development
 Aspects addressed in this work include carbon footprint, power usage effectiveness, server sprawl, temperature, humidity, free cooling etc. 
 This grant has supported a Ph.D. student Michael Pawlish in Environmental Management with Dr. Varde as the dissertation advisor in her capacity as Doctoral Faculty Member in that Program. It has led to publications in ACM's SIGMOD Record Journal, IJCAC journal, IEEE's ICIAFS, ACM's CIKM workshops, IEEE's ICDM workshops and various other multi-disciplinary venues. Further work emerging from this research on the use of cloud and hybrid models for green business solutions along with the DevOps (development and operations) paradigm appeared in ACM's SIGKDD Explorations journal. Results from this work have actually been used by PSE&G and Montclair State University for developing greener data centers. This work makes positive contributions on sustainability and smart environment to its green computing perspectives.
 
-PhD Student: Michael Pawlish (Graduated: May 2014)
+- PhD Student: Michael Pawlish (Graduated: May 2014)
 
-Grant PI & Co-author on Papers: Dr. Stefan Robila (CS, Montclair)
+- Grant PI & Co-author on Papers: Dr. Stefan Robila (CS, Montclair)
 
-Funding: PSEG Research Grant (2011 to 2013)
+- Funding: PSEG Research Grant (2011 to 2013)
 

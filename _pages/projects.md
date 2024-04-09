@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of DSL projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [ongoing, past, work, fun]
 horizontal: false
 ---
 

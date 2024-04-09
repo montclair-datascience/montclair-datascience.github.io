@@ -6,17 +6,25 @@ inline: false
 ---
 
 We received a best paper award for our research paper at an international conference held in Imperial College London with proceedings by Springer Nature publishers. 
-
 Details are as follows. 
+
 ------------------------------------------
-Paper Title: Robo-CSK-Organizer: Commonsense Knowledge to Organize Detected Objects for Multipurpose Robots
-Authors: Rafael Hidalgo, Jesse Parron, Aparna S. Varde, Weitian Wang 
-Conference: International IoT, Electronics and Mechatronics Conference 
-Track: Data Science and IoT
-Publisher: Springer Nature
-Venue: Imperial College, London, UK
-Presenting Author: Aparna S. Varde (advisor on MS thesis)
-Lead Author: Rafael Hidalgo (mainly based on MS thesis work) 
+- Paper Title: Robo-CSK-Organizer: Commonsense Knowledge to Organize Detected Objects for Multipurpose Robots
+
+- Authors: Rafael Hidalgo, Jesse Parron, Aparna S. Varde, Weitian Wang 
+
+- Conference: International IoT, Electronics and Mechatronics Conference 
+
+- Track: Data Science and IoT
+
+- Publisher: Springer Nature
+
+- Venue: Imperial College, London, UK
+
+- Presenting Author: Aparna S. Varde (advisor on MS thesis)
+
+- Lead Author: Rafael Hidalgo (mainly based on MS thesis work) 
+
 ---------------------------------------------------
 
 On an added note, here is some more info... 
