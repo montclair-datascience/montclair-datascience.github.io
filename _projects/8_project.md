@@ -18,4 +18,4 @@ This work involves machine learning and data mining techniques in the area of im
 - Collaborators / Co-authors: Dr. Stefan Robila (CS, Montclair), Dr. Jianyu Liang (Materials Science, WPI, MA) Dr. Jorge Lorenzo-Trueba (EAES, Montclair), Dr. Weitian Wang (CS, Montclair)
 - Funding: NSF REU Grant (2009 to 2011) - PI: Dr. Stefan Robila;
 - TA from Computer Science;
-- NASA Fellowship - PhD Student Isamar Cortes (2019-2022);
+- NASA Fellowship - PhD Student Isamar Cortes (2019-2022)

@@ -27,7 +27,7 @@ Details are as follows.
 
 ---------------------------------------------------
 
-On an added note, here is some more info... 
+Here is some more info... 
 
 General Chair: Professor Kenneth T V Grattan OBE (Officer of the Order of the British Empire) FREng, Royal Academy of Engineering – George Daniels Professor of Scientific Instrumentation, City, University of London, London, UK
 
