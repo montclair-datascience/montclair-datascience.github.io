@@ -4,6 +4,7 @@ assets/css/main.scss
 assets/plotly/demo.html
 lighthouse_results/**
 _posts/2015-10-20-math.md
-*.yaml
-**/*.yaml
+*.yml
+**/*.yml
 **/*.md
+**/*.liquid

@@ -4,3 +4,15 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"ICBD":
+  color: "#00369f"
+
+"ICTAI":
+  color: "#4dd3c0"
+
+"ACM":
+  color: "#4dd3c0"
+
+"TKDD":
+  color: "#9f6900"
