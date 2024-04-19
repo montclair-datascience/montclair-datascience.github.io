@@ -2,7 +2,7 @@
 layout: post
 title: Heartiest Congrats to our Students for 1st Prize at RAISE-2024 Nationwide Competition - Rutgers
 date: 2024-04-19 11:56:16-0400
-inline: false
+inline: true
 ---
 
 We are delighted to announce that our students Isabele, Anand, Ramy and Ola of Team Machine Minds won the 1st Prize in the Graduate Track at the nationwide RAISE-2024 competition hosted by Rutgers University, NJ. Details are as follows. 
