@@ -40,10 +40,9 @@ Please join us in congratulating Team Machine Minds!
 You can watch the presentation on Youtube.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=BcbmCua_YW0" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/BcbmCua_YW0" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 
 Happy to share this announcement with all of you! 
 
