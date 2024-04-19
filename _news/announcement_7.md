@@ -24,8 +24,6 @@ We are delighted to announce that our students Isabele, Anand, Ramy and Ola of T
 
 Our students put in immense efforts on this project & we were happy to guide them through their journey. 
 
-Later, we can share a video link with you so you can see the details of their presentation. As of now, we are attaching a photo of the 4 students winning the award along with their title slide :) 
-
 Please join us in congratulating Team Machine Minds!
 
 <div class="row">
