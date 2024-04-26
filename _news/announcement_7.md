@@ -35,6 +35,19 @@ Please join us in congratulating Team Machine Minds!
     Team Machine Minds won the 1st Prize in the Graduate Track at the nationwide RAISE-2024 competition
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/raise_01.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/raise_02.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Team Machine Minds with mentors at School of Computing, Montclair State University
+</div>
+
+
 You can watch the presentation on Youtube.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
