@@ -68,11 +68,11 @@ profiles:
 
       
   - align: right
-    image: prof_pic_color.jpg
-    content: about_student.md
+    image: shibbir.jpg
+    content: about_shibbir.md
     image_circular: false # crops the image to make it circular
     category: student
     more_info: >
-      <p>👨‍🏫: John Doe</p>
-      <p>📧: liuha@montclair.edu</p>
+      <p>👨‍🏫: Shibbir Ahmed Arif</p>
+      <p>📧: arifs1@montclair.edu</p>
 ---
