@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Heartiest Congrats to our Students for 1st Prize at RAISE-2024 Nationwide Competition - Rutgers
+title: Heartiest Congrats to Our Students for 1st Prize at RAISE-2024 Nationwide Competition - Rutgers
 date: 2024-04-19 11:56:16-0400
 inline: true
 ---
