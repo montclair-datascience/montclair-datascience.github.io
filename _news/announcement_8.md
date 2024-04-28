@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congrats to Our Students Anand and Shibbir for awesome poster presentation at the Student Research Symposium - Montclair State University
+title: Congrats to Our Students Anand and Shibbir for Awesome Poster Presentation at the Student Research Symposium - Montclair State University
 date: 2024-04-26 16:44:16-0400
 inline: true
 ---
@@ -12,7 +12,7 @@ Well done!!!!!
 ----------------------------------
 
 - Students: Anand Gopeekrishnan and Shibbir Ahmed Arif
-- Mentors: Dr. Hao Liu
+- Mentor: Dr. Hao Liu
 - Event: Student Research Symposium
 - Venue: Montclair State University
 - Topic: Accelerating Patient Screening for Clinical Trials using Large Language Model Prompting
