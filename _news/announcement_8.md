@@ -5,7 +5,7 @@ date: 2024-04-26 16:44:16-0400
 inline: true
 ---
 
-Congratulations to our students Anand Gopeekrishnan and Shibbir Ahmed Arif on the awesome poster presentation at the Student Research Symposium and congratulations to their mentors, Dr. Hao Liu.
+Congratulations to our students Anand Gopeekrishnan and Shibbir Ahmed Arif on the awesome poster presentation at the Student Research Symposium and congratulations to their mentor, Dr. Hao Liu.
 
 Well done!!!!!
 
