@@ -73,6 +73,15 @@ profiles:
     image_circular: false # crops the image to make it circular
     category: student
     more_info: >
-      <p>👨‍🏫: Shibbir Ahmed Arif</p>
+      <p>👨‍🏫: Shibbir Ahmed Arif, MS</p>
       <p>📧: arifs1@montclair.edu</p>
+
+  - align: right
+    image: ernestc.jpg
+    content: about_ernest.md
+    image_circular: false # crops the image to make it circular
+    category: student
+    more_info: >
+      <p>👨‍🏫: Ernest Chianumba, MS</p>
+      <p>📧: chianumbae1@montclair.edu</p>
 ---
