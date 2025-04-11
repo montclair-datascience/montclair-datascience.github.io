@@ -9,7 +9,7 @@ layout: page
       {% assign student_profiles = page.profiles | where_exp: "profile", "profile.category == 'student'" %}
 
       {% if director_profiles.size > 0 %}
-        <h3>Faculty</h3>
+        <h3>Director</h3>
           {% for profile in director_profiles %}
             <hr>
             <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
