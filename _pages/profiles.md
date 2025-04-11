@@ -26,7 +26,7 @@ profiles:
     image: haoliu.jpg
     content: about_hao.md
     image_circular: false # crops the image to make it circular
-    category: faculty
+    category: director
     more_info: >
       <p>👨‍🏫: Dr. Hao Liu</p>
       <p>📞: 973-655-4096</p>
