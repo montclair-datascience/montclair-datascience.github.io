@@ -2,7 +2,7 @@
 layout: post
 title: MSU Graduate Students Win 1st Place in RAISE Competition for Second Consecutive Year!
 date: 2025-04-11 12:52:16-0400
-inline: false
+inline: true
 ---
 
 We are thrilled to announce that our Montclair State University team "Next-Gen Tech Thinkers" has won the 1st prize in the nationwide RAISE-2025 Data Science competition hosted by Rutgers University, NJ. This marks an outstanding achievement as MSU students have claimed the top honor for two consecutive years!  
@@ -19,6 +19,8 @@ Competition Details:
 - Participants: Accredited US Institutions 
 - Duration: February 15 to April 11, 2025 
 - Track: Graduate Students - Award: $1,000 per team member (total $5,000)
+
+
 -----------------------------------
 
 Our students demonstrated exceptional dedication and innovative thinking throughout this prestigious competition. As mentors, we are immensely proud of their hard work and intellectual contributions. 
